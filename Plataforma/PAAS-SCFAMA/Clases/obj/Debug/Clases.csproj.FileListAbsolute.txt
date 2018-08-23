@@ -1,0 +1,9 @@
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\bin\Debug\Clases.dll
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\bin\Debug\Clases.pdb
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\bin\Debug\ConexionBD.dll
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\bin\Debug\ConexionBD.pdb
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\obj\Debug\Clases.csprojResolveAssemblyReference.cache
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\obj\Debug\Clases.csproj.CopyComplete
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\obj\Debug\Clases.dll
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,90 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PAAS.master.cs" Inherits="PAAS_SCFAMA.PAAS" %>
+
+<!DOCTYPE html>
+
+<!--
+Design by TEMPLATED
+http://templated.co
+Released for free under the Creative Commons Attribution License
+Name       : GrassyGreen 
+Description: A two-column, fixed-width design with dark color scheme.
+Version    : 1.0
+Released   : 20140310
+-->
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>PAAS-SCFAMA</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <link href="http://fonts.googleapis.com/css?family=Raleway:400,200,500,600,700,800,300" rel="stylesheet" />
+    <link href="css/default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/fonts.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+
+        function Logout() {
+            if (confirm("¿Desea cerrar sesión?")) {
+                return true
+            } else {
+                return false
+            }
+        }
+
+    </script>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderPAASHead" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="Form2" runat="server">
+        <div id="menu-wrapper">
+            <div id="menu" class="container">
+                <ul>
+                    <li id="lProyectos"><a href="Project.aspx">Proyectos</a></li>
+                    <li id="lRecursos"><a href="Resource.aspx">Empresa</a></li>
+                    <li id="lUsuarios"><a href="User.aspx">Usuarios</a></li>
+                    <li id="lSalir">
+                        <asp:LinkButton ID="lbtnLogout" runat="server" OnClick="lbtnLogout_Click" OnClientClick="Logout()">Salir</asp:LinkButton></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- end #menu -->
+
+
+        <div id="wrapper">
+            <div id="header-wrapper">
+                <div id="header" class="container">
+                    <div id="logo" style="color: white">
+                        <asp:Label ID="lblEmpresa" runat="server" Text="Nombre Empresa" Style="font-weight: bold; font-size: xx-large;"></asp:Label>
+                        <br />
+                        <br />
+                        <asp:Label ID="lblUsuario" runat="server" Text="Usuario"></asp:Label>
+                    </div>
+                </div>
+            </div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolderPAAS" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <!-- end #Body -->
+
+    <div id="footer-wrapper">
+        <div id="footer" class="container" align="center">
+            <h3>Plataforma Desarrollada Por Ing. Francisco J. Alvarado N.</h3>
+        </div>
+
+        <div id="copyright" class="container">
+            <p style="font-size: 8px; color: white">&copy; Untitled. All rights reserved. | Photos by <a style="color: white" href="http://fotogrph.com/">Fotogrph</a> | Design by <a style="color: white" href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,9 @@
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\bin\Release\BusinessLogic.dll
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\bin\Release\BusinessLogic.pdb
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\bin\Release\AccessDB.dll
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\bin\Release\AccessDB.pdb
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\obj\Release\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\obj\Release\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\obj\Release\BusinessLogic.csproj.CopyComplete
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\obj\Release\BusinessLogic.dll
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\BusinessLogic\obj\Release\BusinessLogic.pdb

@@ -1,0 +1,5 @@
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\AccessDB\bin\Debug\AccessDB.dll
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\AccessDB\bin\Debug\AccessDB.pdb
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\AccessDB\obj\Debug\AccessDB.csproj.CoreCompileInputs.cache
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\AccessDB\obj\Debug\AccessDB.dll
+C:\Users\pacoa\documents\visual studio 2017\Projects\WebService_PAAS-SCFAMA\AccessDB\obj\Debug\AccessDB.pdb

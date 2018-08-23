@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAAS-SCFAMA", "PAAS-SCFAMA\PAAS-SCFAMA.csproj", "{732C858A-7B72-45ED-AF8C-83590429ADAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{9C05C8F4-8B76-46B1-974D-5CD72AFAE771}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionBD", "ConexionBD\ConexionBD.csproj", "{5DA65D45-98BF-4786-9893-74502B7356D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732C858A-7B72-45ED-AF8C-83590429ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732C858A-7B72-45ED-AF8C-83590429ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732C858A-7B72-45ED-AF8C-83590429ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732C858A-7B72-45ED-AF8C-83590429ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C05C8F4-8B76-46B1-974D-5CD72AFAE771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C05C8F4-8B76-46B1-974D-5CD72AFAE771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C05C8F4-8B76-46B1-974D-5CD72AFAE771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C05C8F4-8B76-46B1-974D-5CD72AFAE771}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA65D45-98BF-4786-9893-74502B7356D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA65D45-98BF-4786-9893-74502B7356D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA65D45-98BF-4786-9893-74502B7356D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA65D45-98BF-4786-9893-74502B7356D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9583AE8E-6E13-4D80-BDE6-8D8A6229653C}
+	EndGlobalSection
+EndGlobal

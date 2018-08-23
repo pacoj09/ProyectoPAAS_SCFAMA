@@ -1,0 +1,6 @@
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\bin\Debug\ConexionBD.dll
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\obj\Debug\ConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\obj\Debug\ConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\pacoa\Documents\Visual Studio 2017\Projects\PAAS-SCFAMA\ConexionBD\obj\Debug\ConexionBD.pdb
